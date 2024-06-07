@@ -1,0 +1,23 @@
+body {
+    background: url(images/weatherimg.jpg) no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.weather-status {
+    margin-top: 20px;
+}
+
+.loading {
+    display: none;
+
+
+}
+
+.btn-black {
+    background-color: black !important;
+    color: white !important;
+    border-color: black !important;
+}
+
+
